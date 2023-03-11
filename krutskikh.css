@@ -1,0 +1,18 @@
+/* основные параметры разметки страницы */
+table, h1, p, footer {
+    border-style: dashed;
+    border-width: 1px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+
+.main-image {
+    
+}
+
+/*дополнительной выделение курсивом и цветом выбраного текста*/
+span {
+    font-style: italic;
+    background-color: rgba(235, 221, 95, 0.315);
+}
